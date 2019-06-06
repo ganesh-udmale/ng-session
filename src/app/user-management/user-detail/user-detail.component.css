@@ -1,0 +1,29 @@
+.row{
+    width: 70%;
+    margin: auto;
+    border: 1px solid;
+    padding: 50px;
+}
+    
+label{       
+    font-weight: bold;
+    float: left;
+}
+p{
+    font-size: 1rem;
+    font-weight: normal;   
+    display: inline;
+    margin: 20px;
+    line-height: 10px;
+}
+.form-group{
+    width: auto;
+    /* float: left; */
+    padding: 5px;
+    text-align: left;
+}
+.goback{
+    float: right;
+    display: inherit;
+    margin-bottom: 20px;
+}
